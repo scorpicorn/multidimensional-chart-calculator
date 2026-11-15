@@ -1,0 +1,1 @@
+"""Human Design variables namespace."""
